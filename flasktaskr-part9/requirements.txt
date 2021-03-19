@@ -15,7 +15,7 @@ gunicorn==19.3.0
 idna==2.6
 iso8601==0.1.12
 itsdangerous==0.24
-Jinja2==2.7.3
+Jinja2==2.11.3
 jmespath==0.9.3
 jsonpatch==1.23
 jsonpointer==2.0
